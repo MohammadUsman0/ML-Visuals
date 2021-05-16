@@ -6,7 +6,7 @@ ML Visuals is an effort to help the machine learning community in improving scie
 
 **Figures to add*
 
-- [ ] Linear regression, single-layer neural network
+- [x] Linear regression, single-layer neural network
 - [x] Multilayer Perceptron with hidden layer
 - [ ] Backpropagation
 - [ ] Batch Normalization and alternatives
@@ -15,9 +15,11 @@ ML Visuals is an effort to help the machine learning community in improving scie
 - [ ] CNN - padding, stride, pooling,... 
 - [ ] LeNet
 - [ ] AlexNet
-- [x] VGG
+- [x] VGG16
+- [x] VGG19
 - [ ] GoogleNet
-- [x] ResNet
+- [x] InceptionV3
+- [x] ResNet50
 - [x] DenseNet
 - [ ] Memory Networks
 - [ ] RNN
@@ -34,5 +36,6 @@ ML Visuals is an effort to help the machine learning community in improving scie
 - [x] Multi-head attention
 - [x] Self-attention
 - [x] Transformer
+- [x] Vision Transformer
 - [ ] Word2vec/GloVe/Skip-gram/CBOW/BERT/GPT....
 - [ ] Common/Popular CV/NLP Tasks
